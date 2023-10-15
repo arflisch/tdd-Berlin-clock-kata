@@ -5,5 +5,6 @@ export class Main{
         if(number%5 === 2) return 2;
         if(number%5 === 3) return 3;
         if(number%5 === 4) return 4;
+        //commentaire
     }
 }
